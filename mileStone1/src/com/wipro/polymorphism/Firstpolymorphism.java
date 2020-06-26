@@ -1,6 +1,6 @@
 package com.wipro.polymorphism;
 
-public class FirstPolymorphismProgram {
+public class Firstpolymorphism {
 	public static void main(String[] args) {
 		new fruit().eat();
 		new apple().eat();
